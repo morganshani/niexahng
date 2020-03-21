@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahyeathei.craigs-art.com/sitemap.xml
